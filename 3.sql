@@ -39,4 +39,3 @@ on d.pizza_id = p.pizza_id
 group by c.name 
 order by Revenue desc limit 3; 
 
-Select "I love you❤️😘" as TrukyBaby;
